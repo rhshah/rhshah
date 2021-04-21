@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Ronak's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhshah&show_icons=true&theme=radical&count_private=true)
 <!--
 **rhshah/rhshah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
