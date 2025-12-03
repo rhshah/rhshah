@@ -21,7 +21,7 @@ I lead the bioinformatics analysis of **circulating tumor DNA (ctDNA)** and **li
 * **Education:** Pursuing an Executive MBA at Rutgers Business School.
 
 ### 📊 GitHub Stats
-![Ronak's Metrics](https://github.com/rhshah/rhshah/blob/main/github-metrics.svg)
+![Ronak's Github Metrics](https://github.com/rhshah/rhshah/blob/main/github-metrics.svg)
 
 ### 🔗 Connect & Publications
 <a href="https://scholar.google.com/citations?user=ItA13bYAAAAJ&hl=en">
