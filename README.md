@@ -1,7 +1,7 @@
 # Hi there, I'm Ronak Shah 👋
 
 ### Senior Manager, Computational Biology @ MSKCC
-*Executive MBA Candidate, Class of 2026*
+*MBA, MS*
 
 I lead the bioinformatics analysis of **circulating tumor DNA (ctDNA)** and **liquid biopsy** applications at Memorial Sloan Kettering Cancer Center. My team develops and operates high-throughput NGS pipelines (MSK-ACCESS, CMO-CH) using cloud-native infrastructure.
 
